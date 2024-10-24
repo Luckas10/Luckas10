@@ -29,7 +29,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=blue&labelColor=0D1117)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=SQLite&logoColor=lightblue&labelColor=0D1117)&nbsp;
-![MySQL];
 
 
 ### Studying in this moment:
